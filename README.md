@@ -1,1 +1,1 @@
-# wine-quality-project-4
+# wine-quality-prediction-project-4
