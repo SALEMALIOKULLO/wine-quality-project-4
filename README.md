@@ -18,7 +18,7 @@ Output obtained would be checked for correctness and model will be optimized acc
   
 - Data Description, Preparation and Methodology
   
-- Model Description
+- Model Development
 
 - Analysis and Visualization 
 
@@ -35,3 +35,15 @@ The data preparation phase was executed successfully, encompassing critical step
 - Exploratory Analysis
 
 Visualizations were created to explore the target variable and examine the potential existence of outliers or corrupt data. Further visualized the relationship between the target and the feature variables and relationships between features.
+
+
+**Application and Summary**
+
+
+- This result can be used by wine manufacturers to improve the quality of future wine.
+- 
+- Result can be used as a guide for wine selection
+  
+- Certification agencies can use result for quality control
+
+
