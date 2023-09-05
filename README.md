@@ -41,7 +41,7 @@ Visualizations were created to explore the target variable and examine the poten
 
 
 - This result can be used by wine manufacturers to improve the quality of future wine.
-- 
+  
 - Result can be used as a guide for wine selection
   
 - Certification agencies can use result for quality control
