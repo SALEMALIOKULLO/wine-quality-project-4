@@ -19,6 +19,6 @@ Output obtained would be checked for correctness and model will be optimized acc
   
 - Model Description
 
-- Visualization 
+- Analysis and Visualization 
 
 - Application/Summary
