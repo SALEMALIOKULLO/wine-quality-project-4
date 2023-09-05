@@ -7,7 +7,7 @@ The goal for this analysis is to be able to predict the quality of wine based on
 The datasets to be considered contains chemical descriptions of red and white wines and wine quality is modelled to analyze the quality through different parameters.
 Output obtained would be checked for correctness and model will be optimized accordingly.
 
-Dataset: datasets were chosen from data.word: [winequality]([url](https://data.world/food/wine-quality))
+-Dataset: datasets were chosen from data.word:https://data.world/food/wine-quality
 
 
 
