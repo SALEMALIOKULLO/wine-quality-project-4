@@ -28,7 +28,7 @@ Output obtained would be checked for correctness and model will be optimized acc
 
 - Data Understanding and Cleaning
 
-This report outlines the methodology employed to prepare two distinct datasets (white_wine and red_wine) for subsequent analysis. The datasets contain multiple physicochemical properties and quality ratings of white and red wines, respectively. The primary objective was to validate, clean, and amalgamate these datasets into a single table, within a MySQL database environment.
+This report outlines the methodology employed to prepare two distinct datasets (white_wine and red_wine) for subsequent analysis. The datasets contain multiple physicochemical properties and quality ratings of white and red wines respectively. The primary objective was to validate, clean, and amalgamate these datasets into a single table, within a MySQL database environment.
 The data preparation phase was executed successfully, encompassing critical steps such as data validation, cleaning, and unification. This unified dataset is now primed for the next stages and expected to serve as the basis for further machine learning and visualization analysis
 
 
